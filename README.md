@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/oWIqG9y.png" alt="banner" width="100%"/>
+  <img src="[https://i.imgur.com/oWIqG9y.png](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="banner" width="100%"/>
 </p>
 
 ---
@@ -11,15 +11,15 @@
 - 🚀 Passionate about **web development** & building real-world projects
 - 🤝 Open to collaborate on open-source and team projects
 - 📚 Exploring **Agile, TDD, and modern web technologies**
-- 📩 Reach me at: [yourmail@example.com](mailto:yourmail@example.com)
+- 📩 Reach me at: [benyadineemohamed@gmail.com](mailto:benyadineemohamed@gmail.com)
 
 ---
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/"><img src="https://www.instagram.com/benyadinee/-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://www.linkedin.com/in/mohamed-benyadinee-49587532b/-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:benyadineemohamed@gmail.com"><img src="https://benyadineemohamed.gmail.com-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub streak"/>
+
+  <img src="[https://github-readme-streak-stats.herokuapp.com](https://camo.githubusercontent.com/70e13c67464894892d1893b31fb0e1e4ef80c7af6d01861e6e7e1b87b4b5615f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d68696768636f6e7472617374)/?user=YOUR-USERNAME&theme=radical" alt="GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
