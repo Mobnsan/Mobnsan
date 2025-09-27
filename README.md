@@ -1,69 +1,88 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-### Hello 🌎, Hi! I'm Mohamed Ben Yadine
-
-a passionate Full Stack Developer. I specialize in building responsive and dynamic web applications using HTML, CSS, JavaScript, PHP
-
-
-- 🔭 I’m currently working on **building web applications** that make life easier for people.  
-- 🌱 I’m currently learning **React, Artificial Intelligence**.  
-- 💬 Ask me about:  
-  **HTML, CSS, Sass, Bootstrap, JavaScript, React, PHP, Laravel, Spring Boot, Scrum**  
-- ⚡ Fun fact: I code with the passion of a warrior, but I still look like a hobbit 🧙‍♂️.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Mobnsan" target="blank"><i align="center" class="devicon-twitter-original" alt="Mobnsan" height="40" width="60" ></i>
-</a>
-<a href="[https://www.linkedin.com/in/renato-r-611795133/](https://www.linkedin.com/in/mohamed-benyadinee-49587532b/)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mobn" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mobnsan&label=Profile%20views&color=0e75b6&style=flat" alt="Mobnsan" /> </p>
-
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mobnsan&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/Mobnsan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mobnsan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mobnsan"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mobnsan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mobnsan"/>
-  </a>
-</div>
 <p align="center">
-  <a href="https://github.com/Mobnsan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobnsan&&theme=tokyonight" alt="Mobnsan" />
+  <samp>
+    My name is <em>Mohamed</em>. I am a web developer student passionate about building useful apps.  
+    <br/> PHP & MySQL enthusiast... React explorer. Laravel learner.  
+    <br/> Digital Development student at CMC Rabat.  
+    <br/>
+    Love coding, learning new technologies, and sharing knowledge.  
+    <br/>
+    Anime fan 🎌 | Fitness 💪 | Open to collaboration 🤝  
+  </samp>
+  <br/><br/><br/>
+</p>
+
+
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/3243_take_my_money.png" height="40px" />  a finnance mobile app
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/controller.png" width="30px" />  games developed with some friends
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/unity.png" height="30px" /> Unity 'n' Game Design
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/functional.png" height="30px" /> Functional Programming
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/ml.png" height="35px" /> ML
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
+
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/party_parrot.gif" height="35px" /> any weird or interesting idea
+
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/question.png" width="50px" />  Ask me about ...
+- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
+<p align="center">
+  <a href="https://twitter.com/naiman_alex">
+    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/alex.naiman.4/">
+    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
+    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://discord.gg/KgF4WGf">
+    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/discord.png" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="mailto:alex.naiman.4@gmail.com">
+    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
 
-------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,laravel"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr>
-</table>
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+<p align="center">
+         <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>      
+</p>
 
-------
-[Mobnsan](https://github.com/Mobnsan)
-27/09/2025
+### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/stats.png" width="35px" /> Some stats
+
+
+<!--START_SECTION:waka-->
+```text
+Week: 07 August, 2020 - 14 August, 2020
+
+JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
+JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
+<!--END_SECTION:waka-->
+
+
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mobnsan&theme=tokyonight&show_icons=true" />
+
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobnsan&theme=tokyonight&show_icons=true" />
+
+</p>
+
+---
+⭐️ From [alexnaiman](https://github.com/alexnaiman)
