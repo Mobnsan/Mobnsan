@@ -39,42 +39,44 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/question.png" width="50px" />  Ask me about ...
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/chat.gif" height="35px" /> web development, databases, or anime discussions 🎌  
+### <img src="https://raw.githubusercontent.com/question.png" width="50px" />  Ask me about ...
+- <img src="https://raw.githubusercontent.com/chat.gif" height="35px" /> web development, databases, or anime discussions 🎌  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-<p align="center">
+### <img src="https://raw.githubusercontent.com/bongocat.gif" width="50px" /> How to reach me: ...
+**<p align="center">
   <a href="https://www.instagram.com/benyadinee/">
-    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+    <img src="https://raw.githubusercontent.com/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-benyadinee-49587532b/">
-    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+    <img src="https://raw.githubusercontent.com/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:benyadineemohamed@gmail.com">
-    <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+    <img src="https://raw.githubusercontent.com/gmail.png" height="30px" style="margin: 5px;" />
   </a>
-</p>
+</p>**
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/html.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/css.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/js.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/react_native.svg" height="35px" style="margin:6px 4px"/>
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/php.svg" height="35px" style="margin:6px 4px"/>  
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/mysql.svg" height="35px" style="margin:6px 4px"/>
-  <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/dev/laravel.svg" height="35px" style="margin:6px 4px"/>      
+  <img src="https://raw.githubusercontent.com/html.svg" height="35px" style="margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/css.svg" height="35px" style="margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/js.svg" height="35px" style="margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/react_native.svg" height="35px" style="margin:6px 4px"/>
+  <img src="https://raw.githubusercontent.com/php.svg" height="35px" style="margin:6px 4px"/>  
+  <img src="https://raw.githubusercontent.com/mysql.svg" height="35px" style="margin:6px 4px"/>
+  <img src="https://raw.githubusercontent.com/laravel.svg" height="35px" style="margin:6px 4px"/>      
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/stats.png" width="35px" /> Some stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mobnsan&theme=tokyonight&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobnsan&theme=tokyonight&layout=compact" />
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mobnsan&theme=tokyo-night)
+
