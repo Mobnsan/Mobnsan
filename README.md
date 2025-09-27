@@ -1,3 +1,8 @@
+<!-- صورة عريضة أعلى الصفحة -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Hero Image" width="100%" />
+</p>
+
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
 <p align="center">
@@ -12,66 +17,67 @@
   <br/><br/><br/>
 </p>
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="30%" />
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/3243_take_my_money.png" height="40px" /> a PHP & MySQL web project  
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/controller.png" width="30px" /> an anime website with friends  
+### 🚀 I’m currently working on ...
+- 🖥️ a PHP & MySQL web project  
+- 🎌 an anime website with friends  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/react_native.svg" width="30px" /> React & Frontend frameworks  
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/unity.png" height="30px" /> Basics of Game Dev for fun  
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/ml.png" height="35px" /> AI & Machine Learning fundamentals  
+### 📚 I’m currently learning ...
+- ⚛️ React & Frontend frameworks  
+- 🎮 Basics of Game Dev for fun  
+- 🤖 AI & Machine Learning fundamentals  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project or creative idea  
+### 🤝 I’m looking to collaborate on ...
+- 🌍 any open source project or creative idea  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
-- <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/party_parrot.gif" height="35px" /> improving my React & Laravel skills  
+### 🆘 I’m looking for help with ...
+- 🔥 improving my React & Laravel skills  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/question.png" width="50px" />  Ask me about ...
-- <img src="https://raw.githubusercontent.com/chat.gif" height="35px" /> web development, databases, or anime discussions 🎌  
+### ❓ Ask me about ...
+- 💬 web development, databases, or anime discussions 🎌  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/bongocat.gif" width="50px" /> How to reach me: ...
-**<p align="center">
+### 📫 How to reach me
+<p align="center">
   <a href="https://www.instagram.com/benyadinee/">
-    <img src="https://raw.githubusercontent.com/instagram.webp" height="35px" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-benyadinee-49587532b/">
-    <img src="https://raw.githubusercontent.com/linkedin.webp" height="35px" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:benyadineemohamed@gmail.com">
-    <img src="https://raw.githubusercontent.com/gmail.png" height="30px" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>**
-
----
-
-### <img src="https://raw.githubusercontent.com/Mobnsan/Mobnsan/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-<p align="center">
-  <img src="https://raw.githubusercontent.com/html.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/css.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/js.svg" height="35px" style="margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/react_native.svg" height="35px" style="margin:6px 4px"/>
-  <img src="https://raw.githubusercontent.com/php.svg" height="35px" style="margin:6px 4px"/>  
-  <img src="https://raw.githubusercontent.com/mysql.svg" height="35px" style="margin:6px 4px"/>
-  <img src="https://raw.githubusercontent.com/laravel.svg" height="35px" style="margin:6px 4px"/>      
 </p>
 
 ---
 
+### 🛠️ Tools and Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40px" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mobnsan&theme=tokyonight&show_icons=true" />
   <br/>
@@ -79,4 +85,3 @@
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mobnsan&theme=tokyo-night)
-
