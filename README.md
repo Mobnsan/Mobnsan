@@ -1,6 +1,6 @@
 <!-- صورة عريضة أعلى الصفحة -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/33/ce/9a/33ce9aeda995ccca617218bbfcc3ae70.jpg?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Hero Image" width="100%"  />
+  <img src="https://i.pinimg.com/1200x/33/ce/9a/33ce9aeda995ccca617218bbfcc3ae70.jpg?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Hero Image" width="100%" style=''border-radius:10px;  />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
