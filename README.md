@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    My name is <em>Mohamed Benyadinee</em>.  
+    My name is <em>Mohamed Ben yadine</em>.  
     I am a web developer student passionate about creating useful apps.  
     <br/> PHP & MySQL enthusiast... React explorer. Laravel learner.  
     <br/> Digital Development student at CMC Rabat.  
