@@ -13,7 +13,7 @@ a passionate Full Stack Developer. I specialize in building responsive and dynam
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="https://twitter.com/Mobnsan" target="blank"><i align="center" class="devicon-twitter-original" alt="Mobnsan" height="40" width="60" ></i>
 </a>
 <a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mobn" height="40" width="60" ></i>
 </a>
