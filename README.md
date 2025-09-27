@@ -15,11 +15,11 @@ a passionate Full Stack Developer. I specialize in building responsive and dynam
 <p align="left">
 <a href="https://twitter.com/Mobnsan" target="blank"><i align="center" class="devicon-twitter-original" alt="Mobnsan" height="40" width="60" ></i>
 </a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mobn" height="40" width="60" ></i>
+<a href="[https://www.linkedin.com/in/renato-r-611795133/](https://www.linkedin.com/in/mohamed-benyadinee-49587532b/)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mobn" height="40" width="60" ></i>
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mobnsan&label=Profile%20views&color=0e75b6&style=flat" alt="Mobnsan" /> </p>
 
 
 ------
